@@ -1,0 +1,1 @@
+Link tutorial: https://normeno.medium.com/enviar-mensajes-a-slack-a-trav%C3%A9s-de-aws-sns-7aed96c83ccb
