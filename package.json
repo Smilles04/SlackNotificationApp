@@ -1,0 +1,15 @@
+{
+  "name": "lambda-nodejs-sns-slack",
+  "version": "1.0.0",
+  "description": "Ejemplo para enviar mensajes de Slack a través de AWS SNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["aws", "sns", "lambda", "slack"],
+  "author": "Nicolás Ormeño",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
